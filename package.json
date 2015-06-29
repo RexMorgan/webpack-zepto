@@ -1,0 +1,8 @@
+{
+  "name": "webpack-zepto",
+  "version": "1.1.6",
+  "description": "Webpack compatible zepto.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
